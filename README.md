@@ -4,5 +4,6 @@ Preq
 
 - pds4_tools
 - colour-demosaicing
+- Pillow
 
-Both available on pip
+All available on pip
